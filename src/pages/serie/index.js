@@ -1,0 +1,1 @@
+export { Serie } from './serie'

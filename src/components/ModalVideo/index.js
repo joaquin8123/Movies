@@ -1,0 +1,1 @@
+export { ModalVideo } from './ModalVideo'

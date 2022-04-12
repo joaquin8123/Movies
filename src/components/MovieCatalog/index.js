@@ -1,0 +1,1 @@
+export { MovieCatalog } from './MovieCatalog'
